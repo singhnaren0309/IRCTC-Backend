@@ -1,0 +1,8 @@
+Funcitonal Requirement:-
+    login(google,emailpassword)
+    userProfile manage
+    search fuzzy searching and autocompletion will use  elasticsearch
+    route service entry for new train station in db admin access
+    booking service to book(concurrent booking )
+    payment service multiple payment gateway
+    archieval service
